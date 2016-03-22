@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Song.h"
 
 @interface ViewController : UIViewController
 
